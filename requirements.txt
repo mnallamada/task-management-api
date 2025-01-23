@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib
+boto3
+python-decouple
+psycopg2-binary
+sqlmodel
+python-jose
+bcrypt
+python-dotenv
+python-multipart

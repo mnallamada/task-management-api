@@ -1,0 +1,45 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore log files
+*.log
+
+# Ignore database files
+*.db
+
+# Ignore environment variable files
+.env
+
+# Ignore Docker-related files
+*.env.docker
+*.dockerignore
+docker-compose.override.yml
+
+# Ignore specific IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Ignore compiled code and build artifacts
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Uvicorn logs
+*.uvicorn.log
+
+# Ignore deployment artifacts
+*.zip
+*.tar.gz
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Git-specific files
+*.orig
